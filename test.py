@@ -3,7 +3,7 @@ import os
 import shutil
 
 # Specify the paths directly
-githubtest_path = r"C:\Your\Path\githubtest"
+githubtest_path = r"/home/coder/workspace/github_test"
 parent_path = os.path.dirname(githubtest_path)
 
 # Find all folders starting with "q-"
